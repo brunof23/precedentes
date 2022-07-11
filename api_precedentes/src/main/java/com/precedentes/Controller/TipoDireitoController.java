@@ -59,5 +59,7 @@ public class TipoDireitoController {
 		
 		return ResponseEntity.noContent().build();
 	}
+	
+	//teste
 
 }
